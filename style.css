@@ -1,0 +1,18 @@
+h1 {
+    color: chocolate;
+}
+h2 { 
+    color : rgba(255,99,71,0.8);
+}
+h3 {
+    color : #00ff22;
+    
+}
+h4 {
+    color : hsl(0,32%,50%)
+}
+
+body {
+    background-color : rgb(205, 25, 151);
+}
+ddd
