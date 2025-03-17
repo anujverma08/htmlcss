@@ -1,11 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Roboto:wght@300&display=swap');
+
 h1 {
     color: chocolate;
+    font-family:cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: overline;
 }
 h2 { 
     color : rgba(255,99,71,0.8);
+    text-transform: capitalize;
 }
 h3 {
     color : #00ff22;
+    font-family: 'Roboto', sans-serif;
     
 }
 h4 {
@@ -13,6 +23,17 @@ h4 {
 }
 
 body {
-    background-color : rgb(205, 25, 151);
+    /* background-color : rgb(205, 25, 151); */
 }
-ddd
+
+p{
+    /* line-height:30px; */
+    /* letter-spacing: 10px; */
+    word-spacing : 10px;
+    cursor: all-scroll;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
